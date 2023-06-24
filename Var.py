@@ -27,6 +27,16 @@
 #3. Type conversion from one type to another
 # name="anjal"
 # age="25"
-# print(int(age)+2)
+# print(int(age)+2,name.upper())
+# print(name.capitalize())
 
-#4. 
+
+#4.User input
+# name=input("Enter your name:\n")
+# print(name, len(name))
+
+#5. Reassignment
+# a=10
+# a=20
+# print(a+a)
+
